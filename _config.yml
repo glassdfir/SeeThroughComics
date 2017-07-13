@@ -1,10 +1,10 @@
 # Site settings
-title: Comical Jekyll Theme
-email:
+title: See Through Comics.com
+email: stc@jon.glass
 
 keywords: webcomic, comic
 description: > # this means to ignore newlines until "baseurl:"
-  A webcomic theme for jekyll.
+  Web comics and other noise by Jonathan Glass
 
 
 baseurl: http://SeeThroughComics.com
@@ -59,13 +59,13 @@ google_universal_analytics:
 google_universal_analytics_cookiedomain: auto
 
 # Facebook Opengraph
-facebook_user:
-facebook_app_id:                      #enter your App ID
-facebook_locale: en_US
-facebook_page:                        #the URL of your Facebook Page
-facebook_image: /images/SHAM-logo.jpg #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
+#facebook_user:
+#facebook_app_id:                      #enter your App ID
+#facebook_locale: en_US
+#facebook_page:                        #the URL of your Facebook Page
+#facebook_image: /images/SHAM-logo.jpg #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
 
 # Twitter Cards
-twitter_user:
+twitter_user: GlassSec
 twitter_card: true
 twitter_image: /images/SHAM-logo.jpg  #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
